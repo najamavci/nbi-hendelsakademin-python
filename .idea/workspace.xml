@@ -4,12 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e08c880a-191e-4e97-96d9-7a9145cfaf96" name="Changes" comment="Second initial commit">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/homework_01/money_calculation.py" beforeDir="false" afterPath="$PROJECT_DIR$/homework_01/money_calculation.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/homework_01/pricing_with_percentage.py" beforeDir="false" afterPath="$PROJECT_DIR$/homework_01/pricing_with_percentage.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/homework_02/time_calculation.py" beforeDir="false" afterPath="$PROJECT_DIR$/homework_02/time_calculation.py" afterDir="false" />
-    </list>
+    <list default="true" id="e08c880a-191e-4e97-96d9-7a9145cfaf96" name="Changes" comment="Second initial commit" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -53,6 +48,7 @@
   "keyToString": {
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "Python.date_calculation.executor": "Run",
+    "Python.lenght_calculation.executor": "Run",
     "Python.main.executor": "Run",
     "Python.money_calculation.executor": "Run",
     "Python.pricing_with_percentage.executor": "Run",
@@ -93,7 +89,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1768517791206</updated>
-      <workItem from="1768517792258" duration="11559000" />
+      <workItem from="1768517792258" duration="11953000" />
     </task>
     <task id="LOCAL-00001" summary="Second initial commit">
       <option name="closed" value="true" />
@@ -127,6 +123,7 @@
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/Learn_Python$ticket_calculation.coverage" NAME="ticket_calculation Coverage Results" MODIFIED="1768519053153" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/homework_01" />
     <SUITE FILE_PATH="coverage/Learn_Python$time_calculation.coverage" NAME="time_calculation Coverage Results" MODIFIED="1768585881826" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/homework_02" />
+    <SUITE FILE_PATH="coverage/Learn_Python$lenght_calculation.coverage" NAME="lenght_calculation Coverage Results" MODIFIED="1768587322629" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/homework_02" />
     <SUITE FILE_PATH="coverage/Learn_Python$date_calculation.coverage" NAME="date_calculation Coverage Results" MODIFIED="1768587083500" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/homework_02" />
     <SUITE FILE_PATH="coverage/Learn_Python$user_input.coverage" NAME="user_input Coverage Results" MODIFIED="1768573285437" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/homework_01" />
     <SUITE FILE_PATH="coverage/Learn_Python$pricing_with_percentage.coverage" NAME="pricing_with_percentage Coverage Results" MODIFIED="1768573196614" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/homework_01" />
